@@ -57,7 +57,7 @@
         android:padding="10dp"
         android:layout_margin="15dp"
         android:drawableRight="@drawable/baseline_login_24"
-        android:background="#35ffff"
+        android:background="@color/white"
         android:backgroundTint="@color/design_default_color_secondary_variant"
         android:layout_below="@+id/password"
         android:layout_centerHorizontal="true"/>
