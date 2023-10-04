@@ -1,2 +1,2 @@
 # DoLogin
-I have completed my first app in android studio.. a login app
+I am happy to share that i've built my first Android mobile application in android studio..(using Java): A Login app
